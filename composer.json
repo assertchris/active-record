@@ -1,6 +1,6 @@
 {
     "name": "active/record",
-    "description": "Active Record is the future, today!"
+    "description": "Active Record is the future, today!",
     "require": {
         "php": ">8"
     }
