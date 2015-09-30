@@ -1,0 +1,4 @@
+{
+    "name": "active/record",
+    "require": "php>=8"
+}
