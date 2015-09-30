@@ -1,4 +1,6 @@
 {
     "name": "active/record",
-    "require": "php>=8"
+    "require": {
+        "php": ">8"
+    }
 }
